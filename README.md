@@ -38,8 +38,8 @@ OpenAI-compatible API server for GPT-OSS-20B model built with FastAPI. This proj
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/gpt-oss-20b-api.git
-   cd gpt-oss-20b-api
+   git clone https://github.com/atiksorg/ProTalk-Local-LLM-Guide.git
+   cd ProTalk-Local-LLM-Guide
    ```
 
 2. Create a virtual environment:
